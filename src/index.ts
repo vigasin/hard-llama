@@ -71,7 +71,7 @@ async function main() {
       llm: {
         provider: "claude-code",
         options: {
-          model: "claude-sonnet-4-20250514",
+          model: "claude-sonnet-4-6",
         },
       },
       // Global prompt for faster decision making
